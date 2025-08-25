@@ -134,8 +134,3 @@ This project is based on open-source tools only and does not use any paid APIs o
 
 
 ---
-
-👉 Bas tumhe ye karna hai:  
-- `"https://example.com/week1-audio-demo"` aur `"https://example.com/week3-video1"` jahan jahan links diye hain, wahan apne **YouTube / Drive / GitHub raw links** dal dene.  
-
-Chaho to mai tumhe bata dun k **Google Drive ya GitHub Pages pe demo video link kaise dalna hai**?
