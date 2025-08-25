@@ -130,7 +130,7 @@ This project is based on open-source tools only and does not use any paid APIs o
 📍 Location: Jhang, Pakistan
 📧 Email: shanquyyoom5@gmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn (https://www.linkedin.com/in/shan-quyyoom-452923365)
 
 
 ---
